@@ -1,1 +1,1 @@
-FROM kevinanew/python-driver:3.7.3
+FROM kevinanew/python-driver:1.4.2
